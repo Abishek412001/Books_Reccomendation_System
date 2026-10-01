@@ -1,4 +1,4 @@
-# 📚 Book Recommendation System (Project 708)
+# 📚 Book Recommendation System
 > **Two-Stage Hybrid Architecture**: TruncatedSVD Candidate Retrieval + LightGBM Lambdarank
 
 ---
